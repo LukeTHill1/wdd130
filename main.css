@@ -16,8 +16,15 @@ img {
     width: 350px;
     display: block;
     margin: 0 auto;
+    border-radius: 10px;
 }
 p{
     text-align: center;
+    width: 70%;
+    margin: 25px auto;
+    line-height: 1.25em;
+    padding: 30px 5px;
+    box-sizing: border-box;
+    border: 5px black;
+    border-radius: 10px;
 }
-
