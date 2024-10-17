@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Rock+Salt&display=swap');
 #content{
     max-width: 1600px;
     margin: 0 auto;
@@ -6,6 +7,7 @@ nav a{
     text-align: center;
     color: #fcfbfb;
     text-decoration: none;
+    padding: 35px;
 }
 
 #hero-msg h1, #hero-msg h4{
@@ -23,13 +25,21 @@ main section{
 }
 .msg{
     background-color: aliceblue;
+    line-height: 1.5em;
+    padding: 35px;
 }
 footer{
     background-color: blanchedalmond;
     color: blue;
+    padding: 25px 50px;
+    margin-top: 200px;
 }
 body {
-    background-color: #fcfbfb; 
+    background-color: #fcfbfb;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
 header {
     background-color:rgba(20,30,13, .7);
@@ -42,21 +52,31 @@ nav a:hover {
     background-color: goldenrod;
     color: powderblue;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 .book:hover, .join:hover{
     background-color: lightblue;
 }
 .home-title{
     color: #d9c2a3;
+    font-family: 'Rock Salt', 'Agdasima', sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
 }
 h4{
     color: paleturquoise;
 }
 .msg h2{
     color: aquamarine;
+    font-family: 'Agdasima', 'Rock Salt', sans-serif;
 }
 .msg p{
     color: slateblue;
+    font-size: .8em;
+    padding-bottom: 15px;
 }
 footer a{
     color: lightsalmon;
@@ -67,6 +87,7 @@ footer a:hover{
 }
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
 #hero-img{
     width: 100%;
@@ -76,4 +97,22 @@ footer p {
 } 
 footer p a:hover {
     text-decoration: underline;
+}
+h2{
+    margin: 0;
+}
+#logo_link{
+    padding-top: 5px;
+}
+footer .social img{
+    padding-top: 15px;
+}
+.river-card, .camping-card, .rapids-card{
+    margin: 200px;
+}
+.card-img{
+    border: 10px burlywood;
+}
+main section img {
+    box-sizing: border-box;
 }
