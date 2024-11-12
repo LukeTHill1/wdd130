@@ -2,10 +2,10 @@
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #396E94   ;
-  --secondary-color: #E7C24F ;
-  --accent1-color: #A42212;
-  --accent2-color: white;
+  --primary-color: #005f73  ;
+  --secondary-color: #ca6702 ;
+  --accent1-color: #001219;
+  --accent2-color: #e9d8a6;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Playfair Display";
