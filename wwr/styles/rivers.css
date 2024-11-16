@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Rock+Salt&display=swap');
-* {
+#content {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -42,7 +42,7 @@ main {
     margin-top: 20px;
 }
 
-.content {
+#content {
     flex: 3;
 }
 
