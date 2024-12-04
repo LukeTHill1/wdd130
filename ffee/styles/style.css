@@ -71,6 +71,9 @@ main {
 .logo{
   align-items: center;
 }
+.home-pic{
+  width: 20%;
+}
 footer{
   background-color: #ee9b00;
   color: #0A9396;
