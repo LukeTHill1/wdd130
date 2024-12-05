@@ -69,7 +69,7 @@ main {
   gap: 20px;
 }
 .logo{
-  align-items: center;
+  width: 10%;
 }
 .home-pic{
   width: 20%;
