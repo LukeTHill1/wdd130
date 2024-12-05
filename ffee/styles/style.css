@@ -69,8 +69,13 @@ main {
   align-items: center;
   gap: 20px;
 }
+header{
+  display: grid;
+  align-items: center;
+  grid-template-columns: 200px 1fr;
+}
 .logo{
-  width: 10%;
+  width: 100%
 }
 .home-pic{
   width: 20%;
@@ -86,6 +91,7 @@ footer{
 }
 footer a{
   text-decoration: none;
+  color: #0A9396;
 }
 footer a:hover{
   color: #ae2012;
