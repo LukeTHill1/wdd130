@@ -24,6 +24,7 @@
     padding: 0 18px;
     background-color: #001219;
     display: none;
+    
     overflow: hidden;
 }
 nav a{
@@ -62,6 +63,12 @@ h2{
     max-width: 600px;
     text-align: center;
     font-size: 20px;
+    color: #ca6702;
+}
+h3{
+    max-width: 600px;
+    text-align: center;
+    font-size: 15px;
     color: #ca6702;
 }
 main {
